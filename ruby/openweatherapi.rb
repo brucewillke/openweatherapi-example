@@ -1,4 +1,3 @@
-require 'json'
 require 'httparty'
 
 api_key     = "21c6977742eee43446ec20d18c0b3ffa"
