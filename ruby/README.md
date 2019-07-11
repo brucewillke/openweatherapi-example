@@ -6,3 +6,6 @@ gem install httparty ( or bundle )
 ruby openweatherapi.rb
 ```
 
+#Docker use 
+`docker build -t openweatherapirb:0.0.1 .`
+`docker run -it openweatherapirb:0.0.1`
